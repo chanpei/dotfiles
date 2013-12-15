@@ -44,7 +44,7 @@ RPROMPT="%1(v|%F{green}%1v%f|)"
 #############################
 # Alias
 #
-alias la='ls -a'
+alias la='ls -la'
 alias ll='ls -l'
 
 alias rm='rm -i'
